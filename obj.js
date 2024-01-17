@@ -24,5 +24,10 @@ const obj = {
 // const obj  = new Object;
 // console.log(obj);
 
+const obj2 = {
+    abcs:"anilet"
+}
+
+var a = 18892;
 
 
