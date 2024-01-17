@@ -30,4 +30,7 @@ const obj2 = {
 
 var a = 18892;
 
+var c = "ajdfasklfjs";
+console.log(c);
+
 
