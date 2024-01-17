@@ -19,3 +19,6 @@ const numbers = [36, 49, 25, 16];
 const ans = numbers.map(Math.sqrt);
 console.log(ans);
 
+var b = 2234;
+console.log(b);
+
